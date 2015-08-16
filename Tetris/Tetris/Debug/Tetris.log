@@ -1,0 +1,17 @@
+﻿Der Buildvorgang wurde am 16.08.2015 17:59:54 gestartet.
+     1>Projekt "C:\Users\Steffen\documents\visual studio 2013\Projects\Tetris\Tetris\Tetris.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Visual_Studio\VC\bin\CL.exe /c /I"D:\SFML\SFML-2.3\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Tile.cpp
+         Tile.cpp
+       Link:
+         D:\Visual_Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Steffen\documents\visual studio 2013\Projects\Tetris\Debug\Tetris.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SFML\SFML-2.3\lib" "sfml-graphics.lib" "sfml-window.lib" "sfml-system.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Steffen\documents\visual studio 2013\Projects\Tetris\Debug\Tetris.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Steffen\documents\visual studio 2013\Projects\Tetris\Debug\Tetris.lib" /MACHINE:X86 Debug\Game.obj
+         Debug\Gameboard.obj
+         Debug\main.obj
+         Debug\Scoreboard.obj
+         Debug\Tile.obj
+         Tetris.vcxproj -> C:\Users\Steffen\documents\visual studio 2013\Projects\Tetris\Debug\Tetris.exe
+     1>Die Erstellung des Projekts "C:\Users\Steffen\documents\visual studio 2013\Projects\Tetris\Tetris\Tetris.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.32
