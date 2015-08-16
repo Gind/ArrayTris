@@ -24,5 +24,3 @@ private:
 	void InitBoard();
 	void DeleteLine(int p_Y);
 };
-
-//testcommentar
